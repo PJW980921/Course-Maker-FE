@@ -6,7 +6,7 @@
 
 코스메이커는 여행객들에게 다양한 테마별 코스를 제공하고, 직접 코스를 등록할 수 있는 서비스입니다.
 # 배포 주소
-
+http://api.course-maker.net/
 # 설치 가이드
 ```
 1.yarn set version berry
@@ -27,10 +27,10 @@
 
 ## 코스/여행지 상세페이지
 
+<img width="305" alt="스크린샷 2024-06-22 오후 1 13 34" src="https://github.com/PJW980921/Course-Maker-FE/assets/124119421/56907e07-9c6f-4357-b162-868ebb8465c2">
+
 여행 경로를 쉽게 이해할 수 있는 직관적인 지도 기능을 제공하기 위해 KaKao Maps SDK 라이브러리를 활용했습니다.
 
 데이터 캐싱을 위해 TanstackQuery를 활용했습니다.
 
-# 트러블 슈팅
 
-(현재 작성중입니다.)
